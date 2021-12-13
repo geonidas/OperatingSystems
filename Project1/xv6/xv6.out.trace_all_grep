@@ -1,0 +1,9 @@
+
+xv6 kernel is booting
+
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ trace 2147483647 grep hello README
+exec trace failed
+$ qemu-system-riscv64: terminating on signal 15 from pid 25946 (make)
