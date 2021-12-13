@@ -1,0 +1,9 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ time cat README
+Real-time in ticks: 0
+$ qemu-system-riscv64: terminating on signal 15 from pid 489863 (make)
